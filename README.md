@@ -17,7 +17,7 @@ This project is a simple **English-to-Hindi translation tool** built using the `
 
 ## Installation
 1. Open the project in Google Colab:
-   - [Link to Colab Notebook](https://colab.research.google.com/drive/YOUR_NOTEBOOK_LINK) *(Replace with your notebook’s shareable link)*
+   - [Link to Colab Notebook]([https://colab.research.google.com/drive/YOUR_NOTEBOOK_LINK](https://colab.research.google.com/drive/1VXx-57TwdcohzlmzTLLEd1HpFZGn6Sxc?usp=sharing) **
 2. Ensure Colab runtime is set to GPU (optional for faster processing):
    - Go to `Runtime > Change runtime type > Select GPU`.
 3. Run the cells in order as described below.
